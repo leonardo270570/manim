@@ -1,1 +1,1 @@
-# manim
+# Manim Community Edition
